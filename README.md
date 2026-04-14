@@ -55,6 +55,13 @@ Each file corresponds to a specific conversation turn, for example:
 - Therefore, this repository does **not** claim any rights over the original data.
 
 Only the annotation results created and released in this repository are included here.  
+
+## License
+
+The annotation data in this repository is licensed under CC BY 4.0.
+
+This license applies only to the annotations created by the authors.  
+The original datasets are not included and may be subject to separate terms.
 Users should obtain the original datasets from the official sources and ensure their own compliance with any applicable terms before use.
 
 ---
