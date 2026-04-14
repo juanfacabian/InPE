@@ -27,24 +27,24 @@ To enable a fine-grained analysis of preference elicitation strategies across di
   - **Validation**: `dialogue_id = 0 ~ 98`
   - **Test**: `dialogue_id = 99 ~ 197`
   
-- **Question 1 Options**  
+- **Question 1 Based on the users latest message, should the assistant ask questions to explore users preferences?**  
   A. No  
   B. Yes or Not sure  
 
-- **Question 2 Options**  
+- **Question 2 Which of the following strategies would be most appropriate for assistant to generate questions?**  
   A. Item-based  
   B. Attribute-based  
   C. Hybrid  
   D. d_none_of_the_above  
 
-- **Question 3 Options**  
+- **Question 3 Below are four candidate responses generated using the strategy you selected. Which response fits best?**  
   A / B / C + 1 / 2 / 3 + Attribute-based / Item-based / Hybrid  
 
-- **Question 4 Options**  
+- **Question 4 Do you think this response is better than the assistant’s latest response?**  
   A. Yes  
   B. No  
 
-- **Question 5 Options**  
+- **Question 5 Why do you think this response is better than the original response?**  
   A. Information Sufficiency  
   B. Control  
   C. Efficiency  
