@@ -92,6 +92,13 @@ Users should obtain the original datasets from the official sources and ensure t
 ## Citation
 If you use the resources presented in this repository, please cite:
 ```
+@inproceedings{xia2026and,
+  title={When and How to Ask: Dynamic Preference Elicitation Strategies for Conversational Recommendation},
+  author={Xia, Feng and Zhang, Shuo and Wang, Xi},
+  booktitle={Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={2039--2048},
+  year={2026}
+}
 ```
 
 ---
