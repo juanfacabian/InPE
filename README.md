@@ -61,11 +61,11 @@ Each data corresponds to a specific conversation turn, for example:
 {
   "conversation_id_0_turn_1.json": [
     {
-      "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "Yes or Not sure",
-      "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "Item-based",
-      "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "A3. Item-based",
-      "4. Do you think this response is better than the assistant’s latest response?": "Yes",
-      "5. Why do you think this response is better than the original response?": "e_others"
+      "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+      "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "A",
+      "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "C",
+      "4. Do you think this response is better than the assistant’s latest response?": "A",
+      "5. Why do you think this response is better than the original response?": "E"
     }
   ]
 }
