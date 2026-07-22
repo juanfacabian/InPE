@@ -1,0 +1,127 @@
+[
+  {
+    "conversation_id_0_turn_1.json": [
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "A",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "C",
+        "4. Do you think this response is better than the assistant’s latest response?": "A",
+        "5. Why do you think this response is better than the original response?": "E"
+      },
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "B",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "C",
+        "4. Do you think this response is better than the assistant’s latest response?": "B",
+        "5. Why do you think this response is better than the original response?": null
+      },
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "D",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": null,
+        "4. Do you think this response is better than the assistant’s latest response?": null,
+        "5. Why do you think this response is better than the original response?": null
+      }
+    ]
+  },
+  {
+    "conversation_id_0_turn_2.json": [
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "B",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "C",
+        "4. Do you think this response is better than the assistant’s latest response?": "A",
+        "5. Why do you think this response is better than the original response?": "D"
+      },
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "C",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "B",
+        "4. Do you think this response is better than the assistant’s latest response?": "A",
+        "5. Why do you think this response is better than the original response?": "D"
+      },
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "C",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "A",
+        "4. Do you think this response is better than the assistant’s latest response?": "A",
+        "5. Why do you think this response is better than the original response?": "C"
+      }
+    ]
+  },
+  {
+    "conversation_id_0_turn_3.json": [
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "C",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "A",
+        "4. Do you think this response is better than the assistant’s latest response?": "A",
+        "5. Why do you think this response is better than the original response?": "E"
+      },
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "C",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "B",
+        "4. Do you think this response is better than the assistant’s latest response?": "A",
+        "5. Why do you think this response is better than the original response?": "D"
+      },
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "D",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": null,
+        "4. Do you think this response is better than the assistant’s latest response?": null,
+        "5. Why do you think this response is better than the original response?": null
+      }
+    ]
+  },
+  {
+    "conversation_id_0_turn_4.json": [
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "C",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "A",
+        "4. Do you think this response is better than the assistant’s latest response?": "A",
+        "5. Why do you think this response is better than the original response?": "E"
+      },
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "C",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "B",
+        "4. Do you think this response is better than the assistant’s latest response?": "A",
+        "5. Why do you think this response is better than the original response?": "C"
+      },
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "D",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": null,
+        "4. Do you think this response is better than the assistant’s latest response?": null,
+        "5. Why do you think this response is better than the original response?": null
+      }
+    ]
+  },
+  {
+    "conversation_id_0_turn_5.json": [
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "A",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "B",
+        "4. Do you think this response is better than the assistant’s latest response?": "A",
+        "5. Why do you think this response is better than the original response?": "E"
+      },
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "C",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": "B",
+        "4. Do you think this response is better than the assistant’s latest response?": "A",
+        "5. Why do you think this response is better than the original response?": "C"
+      },
+      {
+        "1. Based on the users latest message, should the assistant ask questions to explore users preferences?": "B",
+        "2. Which of the following strategies would be most appropriate for assistant to generate questions? If none apply, please choose \"None of the above\".": "D",
+        "3. Below are four candidate responses generated using the strategy you selected. Which response fits best?": null,
+        "4. Do you think this response is better than the assistant’s latest response?": null,
+        "5. Why do you think this response is better than the original response?": null
+      }
+    ]
+  }
+]
