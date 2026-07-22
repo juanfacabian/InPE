@@ -10,7 +10,7 @@ Conversational Recommender Systems (CRSs) use multi-turn dialogue to capture evo
 
 ## Dataset InPE
 
-To enable a fine-grained analysis of preference elicitation strategies across different dialogue stages, we introduce **InPE**, an annotated and augmented version of the [INSPIRED dataset](https://github.com/sweetpeach/Inspired). 
+To enable a fine-grained analysis of preference elicitation strategies across different dialogue stages, we introduce **InPE**, an annotated and augmented version of the [INSPIRED dataset](https://github.com/sweetpeach/Inspired). For access to the full dataset, please contact feng.xia.cs@gmail.com.
 
 ### Description
 For each dialogue turn identified by the LLM filter, annotators first verify whether preference elicitation is required based on the context; turns without this intent are excluded. For eligible turns, annotators classify the elicitation strategy as attribute-based, item-based, or hybrid (i.e., using both items and attributes). The system then provides multiple candidate responses under the selected strategy, and annotators choose the most appropriate one. Finally, annotators assess whether the selected response improves upon the original system utterance. If not, the annotation ends; otherwise, annotators record the reasons for improvement and submit the result.
